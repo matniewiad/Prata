@@ -1,2 +1,2 @@
 # Prata
-zadania z książki "Szkoła programowania Język C++" - Stephan Prata
+zadania z książki "Szkoła programowania Język C++" (Wydanie VI) - Stephan Prata
